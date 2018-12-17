@@ -1,1 +1,1 @@
-module github.com/jtianling/goModule
+module github.com/binfer-go/goModules
