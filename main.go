@@ -8,6 +8,6 @@ import (
 	        fmt.Println("hello, world")
 	}
 
-	func list() {
+	func List() {
 		fmt.Println("file")
 	}
